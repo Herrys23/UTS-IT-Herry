@@ -38,9 +38,7 @@
         <li class="nav-item">
           <a class="nav-link text-white" href="/dashboard">Dashboard</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link text-white" href="/blogPage">Blog</a>
-        </li>
+        
         <li class="nav-item">
           <a class="nav-link text-white" href="/gallery">Gallery</a>
         </li>
