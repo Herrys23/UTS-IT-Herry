@@ -15,7 +15,7 @@
 <body>
     <header class="header-bar">
         <div class="container d-flex flex-column flex-md-row align-items-center p-3">
-            <h4 class="my-0 mr-md-auto font-weight-normal"><a href="/" class="text-white">GHIT Management</a></h4>
+            <h4 class="my-0 mr-md-auto font-weight-normal"><a href="/" class="text-white">HS Management</a></h4>
             <ul class="nav justify-content-end">
                 <li class="nav-item">
                     <a class="nav-link active text-white" href="/">Home</a>
